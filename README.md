@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
-## Clone the project
+## Cloning the project
 Run `git clone https://github.com/Ndosie/nem-stack-hot-takes.git` in to your Command Line Interface.
 Go to the project's directory and follow the procedures below for the servers.
 
